@@ -1,2 +1,2 @@
 # Personal Library
-Application that lets you compile and rate you favorite books.  Built usinging Flask html Templates and SQLite database.
+Application that lets you compile and rate your favorite books.  Built using Flask html Templates and SQLite database.
